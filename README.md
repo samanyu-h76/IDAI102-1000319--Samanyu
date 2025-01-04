@@ -80,4 +80,4 @@ This project analyzes data from the Olympic Games, covering events from Athens 1
    - Steady growth in female athlete participation highlights progress.
    - Suggested initiatives to encourage greater representation in traditionally male-dominated sports.
 
-  **THE END**
+  ## The End
