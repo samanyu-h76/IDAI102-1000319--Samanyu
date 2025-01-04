@@ -22,30 +22,39 @@ This project analyzes data from the Olympic Games, covering events from Athens 1
 
 2. Top 10 Countries in Gymnastics:
    - Highlighted countries dominating gymnastics over the years.
+   - Visualization: Bar chart of the top 10 countries in Gymnastics
 
 3. Gender Participation Analysis:
    - Tracked male and female athlete participation across time.
+   - Visualization: Clustered bar chart for gender participation analysis
 
 4. Sports Count Over Time:
    - Plotted the number of sports included in each Olympic year.
+   - Visualization: Line graph of sports count over time.
 
 5. Age Distribution of Gold Medalists:
    - Analyzed the age range of peak-performing athletes.
+   - Visualization: Histogram of age distribution of gold medalists.
 
 6. Summer Sports Over Time:
    - Tracked the evolution of Summer Olympic sports diversity.
+   - Visualization: Line graph of summer sports over time.
 
 7. Winter Sports Over Time:
    - Analyzed trends in Winter Olympic sports growth.
+   - Visualization: Line graph of winter sports over time.
 
 8. Average Height of Male and Female Athletes Over Time:
    - Explored physical characteristic trends across genders.
+   - Visualization: Line graph of average height of male and female atheletes over time
 
 9. Top Performing Athletes in Ice Hockey:
    - Highlighted medal counts of top athletes in Ice Hockey.
+   - Visualization: Bar chart of top performing athletes.
 
 10. India’s Performance Analysis:
     - Detailed India's medal counts across all Olympic Games.
+    - Visualization: Clustered bar chart of analysis of India's performance.
 
 ## Methodology
 1. **Data Preprocessing**:
